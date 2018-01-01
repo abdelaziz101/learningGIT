@@ -1,6 +1,10 @@
 # Created by .ignore support plugin (hsz.mobi)
+<<<<<<< HEAD
 ### Example user template template
 ### Example user template
 
 # IntelliJ project files
+=======
+ignored.txt
+>>>>>>> newBranch
 .idea
